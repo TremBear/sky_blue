@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="skyblue-activiti" />
+        <module name="skyblue-common" />
+        <module name="skyblue-contract" />
+        <module name="skyblue-gen" />
+        <module name="skyblue-shiro" />
+        <module name="skyblue-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="sky_blue" target="1.8" />
+      <module name="skyblue-activiti" target="1.8" />
+      <module name="skyblue-common" target="1.8" />
+      <module name="skyblue-contract" target="1.8" />
+      <module name="skyblue-gen" target="1.8" />
+      <module name="skyblue-shiro" target="1.8" />
+      <module name="skyblue-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
