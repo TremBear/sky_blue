@@ -3,6 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/sky_blue.iml" filepath="$PROJECT_DIR$/.idea/sky_blue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/skyblue-activiti/skyblue-activiti.iml" filepath="$PROJECT_DIR$/skyblue-activiti/skyblue-activiti.iml" />
+      <module fileurl="file://$PROJECT_DIR$/skyblue-common/skyblue-common.iml" filepath="$PROJECT_DIR$/skyblue-common/skyblue-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/skyblue-contract/skyblue-contract.iml" filepath="$PROJECT_DIR$/skyblue-contract/skyblue-contract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/skyblue-gen/skyblue-gen.iml" filepath="$PROJECT_DIR$/skyblue-gen/skyblue-gen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/skyblue-shiro/skyblue-shiro.iml" filepath="$PROJECT_DIR$/skyblue-shiro/skyblue-shiro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/skyblue-web/skyblue-web.iml" filepath="$PROJECT_DIR$/skyblue-web/skyblue-web.iml" />
     </modules>
   </component>
 </project>
