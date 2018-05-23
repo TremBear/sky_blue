@@ -28,7 +28,7 @@
         </dependency>
         <dependency>
             <groupId>com.skyblue</groupId>
-            <artifactId>skyblue-common</artifactId>
+            <artifactId>skyblue-contract</artifactId>
             <version>2.1.0</version>
         </dependency>
         <dependency>
