@@ -10,6 +10,17 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>skyblue-shiro</artifactId>
-
+    <dependencies>
+        <dependency>
+            <groupId>org.apache.shiro</groupId>
+            <artifactId>shiro-spring</artifactId>
+            <version>1.4.0</version>
+        </dependency>
+        <dependency>
+            <groupId>com.skyblue</groupId>
+            <artifactId>skyblue-common</artifactId>
+            <version>2.1.0</version>
+        </dependency>
+    </dependencies>
 
 </project>

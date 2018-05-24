@@ -1,6 +1,7 @@
 package com.skyblue.mapper;
 
 import com.skyblue.entity.Organize;
+import skyblue.mapper.BaseDao;
 
 import java.util.List;
 
